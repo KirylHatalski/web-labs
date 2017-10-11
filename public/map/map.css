@@ -1,0 +1,44 @@
+.wrapper {
+  width: 1160px;
+  margin: 0 auto;
+  position: relative;
+}
+
+.map a {
+  position: absolute;
+  text-decoration: none;
+  border: 2px solid #000;
+  padding: 2px 5px;
+}
+
+.intro {
+  top: 0;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+.main {
+  top: 60px;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+.biography {
+  top: 120px;
+  left: 320px;
+}
+
+.hobby {
+  top: 120px;
+  left: 470px;
+}
+
+.photos {
+  top: 120px;
+  left: 620px;
+}
+
+.my {
+  top: 120px;
+  left: 770px;
+}
